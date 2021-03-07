@@ -224,11 +224,6 @@
 
   /* 1. SECTION IMAGES */
 
-  #hebergement-et-populaires {
-      display: flex;
-      justify-content: space-between;
-      width: 100%;
-  }
 
 
   .hebergement,
